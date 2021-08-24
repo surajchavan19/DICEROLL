@@ -1,6 +1,6 @@
 # Dice-Roll
 
-This game is built using HTML, CSS and JavaScript.
+This game is built using HTML, CSS and JavaScript. The player with the highest roll on dice wins.
 
 ## Refresh the page to roll the dice.
 
